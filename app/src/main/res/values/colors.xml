@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+
+    <color name="search_block_bg">#33aa6d</color>
+
+    <color name="clock_bg">#c3c3c3</color>
+    <color name="white">#FFFFFF</color>
+    <color name="black_with_alpha">#66000000</color>
+    <color name="black">#000000</color>
+    <color name="nine">#999999</color>
+    <color name="tab_text_unselect">#999999</color>
+    <color name="video_green">#3BD084</color>
+    <color name="black_half">#a0000000</color>
+    <color name="blog_content_color">#666666</color>
+    <color name="lightwhite">#ddd</color>
+    <color name="color_gray">#222222</color>
+    <color name="detail_color_gray">#333333</color>
+    <color name="search_history_line_color">#dddddd</color>
+    <color name="color_lightgray">#888888</color>
+    <color name="vedio_radio">#eeeeee</color>
+    <color name="text_color_white">#ffffff</color>
+    <color name="colorWhite">#FFFFFF</color>
+    <color name="mineGray">#e4e4e4</color>
+
+    <drawable name="white">#FFFFFF</drawable>
+    <drawable name="local_music_divide_color">#eeeeee</drawable>
+
+    <!-- 字体颜色 -->
+    <color name="black_text">#000000</color>
+    <color name="gray6_text">#666666</color>
+    <!-- 按钮属性 -->
+    <color name="white_text">#FFFFFF</color>
+    <!-- cifs -->
+
+    <!-- 扫一扫二维码模块颜色 -->
+    <!-- Android standard ICS color -->
+    <!-- Android standard ICS color -->
+    <!-- Android standard ICS color -->
+    <color name="mouse_bg">#f3f3f3</color>
+
+    <color name="main_background_color">#3bd084</color>
+    <color name="main_unseltext_color">#323232</color>
+
+
+    <color name="local_music_name_textcolor">#333333</color>
+    <color name="local_music_artist_textcolor">#999999</color>
+    <color name="local_music_piaying_textcolor">#3bd084</color>
+
+    <drawable name="playcontrol_seek_bg">#d4ffe6</drawable>
+    <drawable name="playcontrol_seek_progress">#3bd084</drawable>
+
+</resources>
